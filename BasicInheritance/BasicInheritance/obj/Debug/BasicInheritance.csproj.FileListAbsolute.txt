@@ -1,0 +1,7 @@
+D:\GIT\Practice\Practice_OOP_Lab3\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+D:\GIT\Practice\Practice_OOP_Lab3\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe
+D:\GIT\Practice\Practice_OOP_Lab3\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.pdb
+D:\GIT\Practice\Practice_OOP_Lab3\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+D:\GIT\Practice\Practice_OOP_Lab3\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+D:\GIT\Practice\Practice_OOP_Lab3\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.exe
+D:\GIT\Practice\Practice_OOP_Lab3\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.pdb

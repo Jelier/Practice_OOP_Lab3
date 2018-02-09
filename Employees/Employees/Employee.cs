@@ -20,6 +20,11 @@ namespace Employees
             Console.WriteLine("Age: {0}", Age);
             Console.WriteLine("Pay: {0}", Pay);
         }
+
+        public double GetBenefitCost()
+        {
+            return empBenefits.ComputePayDeduction();
+        }
         //Свойства
         public int Age
         {
@@ -52,10 +57,14 @@ namespace Employees
             get { return currPay; }
             set { currPay = value; }
         }
-
         public string SocialSecurityNumber
         {
             get { return empSSN; }
+        }
+        public BenefitPackage Benefits
+        {
+            get { return empBenefits; }
+            set { empBenefits = value; }
         }
     }
 }
